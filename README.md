@@ -13,6 +13,8 @@
 
 1. Display current inventory at start of the app.
 
+![Initial_Database](/Screenshots/1 - initialDatabase.jpg?raw=true "Initial Database")
+
 2. Ask user to input desired item and quantity.
 
 3. Fulfill user's order if there is enough inventory. Application should update the database inventory and display total cost for the user.
