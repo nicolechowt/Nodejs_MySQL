@@ -13,7 +13,7 @@
 
 1. Display current inventory at start of the app.
 
-![Initial_Database](/Screenshots/1 - initialDatabase.jpg?raw=true "Initial Database")
+[![Initial_Database](https://github.com/nicolechowt/Nodejs_MySQL/blob/master/Screenshots/1%20-%20initialDatabase.jpg)]
 
 2. Ask user to input desired item and quantity.
 
